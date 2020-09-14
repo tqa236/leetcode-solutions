@@ -3,7 +3,7 @@ import unittest
 from house_robber import Solution
 
 
-class AllYourBaseTest(unittest.TestCase):
+class Test(unittest.TestCase):
     def test_1(self):
         solution = Solution()
         self.assertEqual(solution.rob([1, 2, 3, 1]), 4)

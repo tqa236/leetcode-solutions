@@ -3,7 +3,7 @@ import unittest
 from bitwise_ors_of_subarrays import Solution
 
 
-class AllYourBaseTest(unittest.TestCase):
+class Test(unittest.TestCase):
     def test_1(self):
         solution = Solution()
         self.assertEqual(solution.subarrayBitwiseORs([0]), 1)

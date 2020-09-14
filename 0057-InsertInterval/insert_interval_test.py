@@ -3,7 +3,7 @@ import unittest
 from insert_interval import Solution
 
 
-class AllYourBaseTest(unittest.TestCase):
+class Test(unittest.TestCase):
     def test_1(self):
         solution = Solution()
         self.assertEqual(solution.insert([[1, 3], [6, 9]], [2, 5]), [[1, 5], [6, 9]])
