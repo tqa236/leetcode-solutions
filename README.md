@@ -6,6 +6,7 @@
 |  15   |             3Sum              |  Python  |     1676     |           24.00           |       153.5       |              N/A               |
 |  31   |       Next Permutation        |  Python  |      40      |           80.88           |       13.9        |             41.92              |
 |  57   |        Insert Interval        |  Python  |      84      |           71.85           |       17.1        |             75.36              |
+|  58   |      Length of Last Word      |  Python  |      44      |           17.34           |       13.9        |             45.34              |
 |  198  |         House Robber          |  Python  |      40      |           27.94           |       13.8        |             59.98              |
 |  205  |      Isomorphic Strings       |  Python  |      36      |           88.24           |       14.1        |             47.13              |
 |  264  |        Ugly Number II         |  Python  |     7500     |            N/A            |       12.8        |             58.04              |
