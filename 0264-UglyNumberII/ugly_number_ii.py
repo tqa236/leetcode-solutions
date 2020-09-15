@@ -7,10 +7,6 @@ class Solution(object):
         self.start = 0
 
     def nthUglyNumber(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
         if n <= len(self.ugly_numbers):
             return self.ugly_numbers[n - 1]
         while n > len(self.ugly_numbers):

@@ -30,17 +30,3 @@ class Solution:
             if (-first - second) in negative_set:
                 result.append(sorted([first, second, -first - second]))
         return result
-        return result + list(self.threeSumRecursion(nums))
-
-    def threeSumRecursion(self, nums: List[int]) -> Set[Tuple[int]]:
-        if len(nums) < 3:
-            return set()
-        if len(nums) == 3:
-            if sum(nums) == 0:
-                return set([(tuple(sorted(nums)))])
-            return set()
-        result = self.threeSumRecursion(nums[:-1])
-        for i in set(combinations(nums[:-1], 2)):
-            if sum(i) + nums[-1] == 0:
-                result.add(tuple(sorted([i[0], i[1], nums[-1]])))
-        return result
