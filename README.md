@@ -14,6 +14,7 @@
 |  421  | Maximum XOR of Two Numbers in an Array |  Python  |     421      |           66.31           |       16.3        |             97.66              |
 |  557  |     Reverse Words in a String III      |  Python  |      36      |           64.78           |       14.2        |             76.21              |
 |  898  |        Bitwise ORs of Subarrays        |  Python  |     1396     |           10.12           |       40.2        |             57.52              |
+| 1041  |        Robot Bounded In Circle         |  Python  |      36      |           33.56           |       14.1        |              N/A               |
 | 1247  |  Minimum Swaps to Make Strings Equal   |  Python  |      12      |          100.00           |       13.8        |             52.77              |
 
 # TODO
