@@ -19,6 +19,7 @@
 |  977  |       Squares of a Sorted Array        |  Python  |     240      |           66.45           |       15.7        |             64.88              |
 | 1041  |        Robot Bounded In Circle         |  Python  |      36      |           33.56           |       14.1        |              N/A               |
 | 1247  |  Minimum Swaps to Make Strings Equal   |  Python  |      12      |          100.00           |       13.8        |             52.77              |
+| 1275  |   Find Winner on a Tic Tac Toe Game    |  Python  |      40      |           28.62           |       13.8        |             72.16              |
 | 1291  |           Sequential Digits            |  Python  |      40      |           22.56           |       13.8        |             50.26              |
 
 # TODO
