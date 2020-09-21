@@ -21,9 +21,11 @@
 | 1247  |  Minimum Swaps to Make Strings Equal   |  Python  |      12      |          100.00           |       13.8        |             52.77              |
 | 1275  |   Find Winner on a Tic Tac Toe Game    |  Python  |      40      |           28.62           |       13.8        |             72.16              |
 | 1291  |           Sequential Digits            |  Python  |      40      |           22.56           |       13.8        |             50.26              |
+| 1328  |           Break a Palindrome           |  Python  |      28      |           77.26           |       14.0        |             18.31              |
 
 # TODO
 
 -   Configure CI
 -   Configure Code Analysis
 -   Configure CodeCov
+-   TODO: 4
