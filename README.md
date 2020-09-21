@@ -3,6 +3,7 @@
 |  ID   |                  Name                  | Language | Runtime (ms) | Runtime (Better than) (%) | Memory Usage (MB) | Memory Usage (Better than) (%) |
 | :---: | :------------------------------------: | :------: | :----------: | :-----------------------: | :---------------: | :----------------------------: |
 |   1   |                Two Sum                 |  Python  |     104      |           30.35           |       15.1        |             69.92              |
+|   4   |      Median of Two Sorted Arrays       |  Python  |      96      |           74.34           |       13.9        |             85.35              |
 |  15   |                  3Sum                  |  Python  |     1676     |           24.00           |       153.5       |              N/A               |
 |  31   |            Next Permutation            |  Python  |      40      |           80.88           |       13.9        |             41.92              |
 |  57   |            Insert Interval             |  Python  |      84      |           71.85           |       17.1        |             75.36              |
@@ -28,4 +29,4 @@
 -   Configure CI
 -   Configure Code Analysis
 -   Configure CodeCov
--   TODO: 4
+-   TODO: 
