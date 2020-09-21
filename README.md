@@ -19,6 +19,7 @@
 |  898  |        Bitwise ORs of Subarrays        |  Python  |     1396     |           10.12           |       40.2        |             57.52              |
 |  977  |       Squares of a Sorted Array        |  Python  |     240      |           66.45           |       15.7        |             64.88              |
 | 1041  |        Robot Bounded In Circle         |  Python  |      36      |           33.56           |       14.1        |              N/A               |
+| 1094  |              Car Pooling               |  Python  |      72      |           44.68           |       14.5        |             12.59              |
 | 1247  |  Minimum Swaps to Make Strings Equal   |  Python  |      12      |          100.00           |       13.8        |             52.77              |
 | 1275  |   Find Winner on a Tic Tac Toe Game    |  Python  |      40      |           28.62           |       13.8        |             72.16              |
 | 1291  |           Sequential Digits            |  Python  |      40      |           22.56           |       13.8        |             50.26              |
