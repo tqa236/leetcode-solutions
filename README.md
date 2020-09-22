@@ -13,6 +13,7 @@
 |  121  |    Best Time to Buy and Sell Stock     |  Python  |      68      |           58.99           |       15.1        |             51.98              |
 |  198  |              House Robber              |  Python  |      40      |           27.94           |       13.8        |             59.98              |
 |  205  |           Isomorphic Strings           |  Python  |      36      |           88.24           |       14.1        |             47.13              |
+|  229  |          Majority Element II           |  Python  |     128      |           32.86           |       13.8        |             45.86              |
 |  264  |             Ugly Number II             |  Python  |     7500     |            N/A            |       12.8        |             58.04              |
 |  421  | Maximum XOR of Two Numbers in an Array |  Python  |     421      |           66.31           |       16.3        |             97.66              |
 |  557  |     Reverse Words in a String III      |  Python  |      36      |           64.78           |       14.2        |             76.21              |
