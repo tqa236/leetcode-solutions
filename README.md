@@ -15,10 +15,13 @@
 |  205  |           Isomorphic Strings           |  Python  |      36      |           88.24           |       14.1        |             47.13              |
 |  229  |          Majority Element II           |  Python  |     128      |           32.86           |       13.8        |             45.86              |
 |  264  |             Ugly Number II             |  Python  |     7500     |            N/A            |       12.8        |             58.04              |
+|  389  |          Find the Difference           |  Python  |      20      |           99.43           |       14.1        |              N/A               |
 |  421  | Maximum XOR of Two Numbers in an Array |  Python  |     421      |           66.31           |       16.3        |             97.66              |
 |  557  |     Reverse Words in a String III      |  Python  |      36      |           64.78           |       14.2        |             76.21              |
 |  693  |  Binary Number with Alternating Bits   |  Python  |      32      |           55.19           |       13.7        |             78.74              |
+|  792  |    Number of Matching Subsequences     |  Python  |     2216     |           16.76           |       15.1        |             58.71              |
 |  898  |        Bitwise ORs of Subarrays        |  Python  |     1396     |           10.12           |       40.2        |             57.52              |
+|  917  |          Reverse Only Letters          |  Python  |      32      |           57.92           |       13.7        |             82.00              |
 |  977  |       Squares of a Sorted Array        |  Python  |     240      |           66.45           |       15.7        |             64.88              |
 | 1041  |        Robot Bounded In Circle         |  Python  |      36      |           33.56           |       14.1        |              N/A               |
 | 1094  |              Car Pooling               |  Python  |      72      |           44.68           |       14.5        |             12.59              |
