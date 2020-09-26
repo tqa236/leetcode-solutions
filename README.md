@@ -18,6 +18,7 @@
 |  264  |             Ugly Number II             |  Python  |     7500     |            N/A            |       12.8        |             58.04              |
 |  389  |          Find the Difference           |  Python  |      20      |           99.43           |       14.1        |              N/A               |
 |  421  | Maximum XOR of Two Numbers in an Array |  Python  |     421      |           66.31           |       16.3        |             97.66              |
+|  495  |            Teemo Attacking             |  Python  |     256      |           95.94           |       15.3        |              7.16              |
 |  557  |     Reverse Words in a String III      |  Python  |      36      |           64.78           |       14.2        |             76.21              |
 |  693  |  Binary Number with Alternating Bits   |  Python  |      32      |           55.19           |       13.7        |             78.74              |
 |  792  |    Number of Matching Subsequences     |  Python  |     2216     |           16.76           |       15.1        |             58.71              |
