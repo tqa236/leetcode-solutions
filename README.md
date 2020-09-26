@@ -23,6 +23,7 @@
 |  581  | Shortest Unsorted Continuous Subarray  |     208      |           88.74           |       15.2        |              8.19              |
 |  693  |  Binary Number with Alternating Bits   |      32      |           55.19           |       13.7        |             78.74              |
 |  792  |    Number of Matching Subsequences     |     2216     |           16.76           |       15.1        |             58.71              |
+|  811  |         Subdomain Visit Count          |      64      |           29.36           |       14.2        |              5.12              |
 |  886  |          Possible Bipartition          |     648      |          100.00           |       18.8        |             70.16              |
 |  898  |        Bitwise ORs of Subarrays        |     1396     |           10.12           |       40.2        |             57.52              |
 |  917  |          Reverse Only Letters          |      32      |           57.92           |       13.7        |             82.00              |
