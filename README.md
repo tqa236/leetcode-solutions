@@ -21,6 +21,7 @@
 |  557  |     Reverse Words in a String III      |  Python  |      36      |           64.78           |       14.2        |             76.21              |
 |  693  |  Binary Number with Alternating Bits   |  Python  |      32      |           55.19           |       13.7        |             78.74              |
 |  792  |    Number of Matching Subsequences     |  Python  |     2216     |           16.76           |       15.1        |             58.71              |
+|  886  |          Possible Bipartition          |  Python  |     648      |          100.00           |       18.8        |             70.16              |
 |  898  |        Bitwise ORs of Subarrays        |  Python  |     1396     |           10.12           |       40.2        |             57.52              |
 |  917  |          Reverse Only Letters          |  Python  |      32      |           57.92           |       13.7        |             82.00              |
 |  977  |       Squares of a Sorted Array        |  Python  |     240      |           66.45           |       15.7        |             64.88              |

@@ -36,7 +36,7 @@ class Test(unittest.TestCase):
         self.assertEqual(solution.findMedianSortedArrays([2], [1, 3, 4]), 2.5)
 
     @given(st.lists(st.integers(), min_size=1), st.lists(st.integers()))
-    def test_hypothesis(self, x, y):
+    def test_random(self, x, y):
         solution = Solution()
         self.assertEqual(
             solution.findMedianSortedArrays(sorted(x), sorted(y)), median(sorted(x + y))
