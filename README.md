@@ -28,6 +28,7 @@
 |  886  |          Possible Bipartition          |     648      |          100.00           |       18.8        |             70.16              |
 |  898  |        Bitwise ORs of Subarrays        |     1396     |           10.12           |       40.2        |             57.52              |
 |  917  |          Reverse Only Letters          |      32      |           57.92           |       13.7        |             82.00              |
+|  933  |         Number of Recent Calls         |     608      |           12.50           |       18.0        |              7.50              |
 |  977  |       Squares of a Sorted Array        |     240      |           66.45           |       15.7        |             64.88              |
 | 1041  |        Robot Bounded In Circle         |      36      |           33.56           |       14.1        |              N/A               |
 | 1094  |              Car Pooling               |      72      |           44.68           |       14.5        |             12.59              |
