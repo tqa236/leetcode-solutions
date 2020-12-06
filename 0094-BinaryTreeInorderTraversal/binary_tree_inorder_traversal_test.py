@@ -1,6 +1,6 @@
 import unittest
 
-from binary_tree_inorder_traversal import TreeNode, Solution
+from binary_tree_inorder_traversal import Solution, TreeNode
 
 
 class Test(unittest.TestCase):

@@ -1,10 +1,10 @@
-import unittest
-import string
 import random
-from hypothesis import given
-from hypothesis.strategies import text
+import string
+import unittest
 
 from find_the_difference import Solution
+from hypothesis import given
+from hypothesis.strategies import text
 
 
 class Test(unittest.TestCase):

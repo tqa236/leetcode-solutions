@@ -1,8 +1,8 @@
 import unittest
-import hypothesis.strategies as st
-from hypothesis import given
 from statistics import median
 
+import hypothesis.strategies as st
+from hypothesis import given
 from median import Solution
 
 

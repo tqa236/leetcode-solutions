@@ -1,4 +1,5 @@
 import unittest
+
 from possible_bipartition import Solution
 
 

@@ -1,5 +1,5 @@
-from typing import List
 from statistics import median
+from typing import List
 
 
 class Solution:
