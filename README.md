@@ -17,6 +17,7 @@
 |  205  |               Isomorphic Strings               |      36      |           88.24           |       14.1        |             47.13              |
 |  229  |              Majority Element II               |     128      |           32.86           |       13.8        |             45.86              |
 |  264  |                 Ugly Number II                 |     7500     |            N/A            |       12.8        |             58.04              |
+|  334  |         Increasing Triplet Subsequence         |      52      |           76.52           |       15.0        |              N/A               |
 |  389  |              Find the Difference               |      20      |           99.43           |       14.1        |              N/A               |
 |  421  |     Maximum XOR of Two Numbers in an Array     |     421      |           66.31           |       16.3        |             97.66              |
 |  495  |                Teemo Attacking                 |     256      |           95.94           |       15.3        |              7.16              |
