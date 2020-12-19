@@ -3,26 +3,14 @@ from typing import List
 
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        if len(nums) < 3:
-            return False
-        true_minimum = nums[0]
-        best_local_second = true_second = None
-        for num in nums[1:]:
-            if num < true_minimum:
-                if true_second is not None:
-                    best_local_second = true_second
-                true_minimum = num
-                true_second = None
-            elif num > true_minimum:
-                if true_second is None:
-                    if best_local_second is not None and num > best_local_second:
-                        return True
-                    true_second = num
-                else:
-                    if num < true_second:
-                        true_second = num
-                    elif num > true_second:
-                        return True
+        minimum = best_second = float("inf")
+        for num in nums:
+            if num <= minimum:
+                minimum = num
+            elif num <= best_second:
+                best_second = num
+            else:
+                return True
         return False
 
     def increasingTripletNaive(self, nums: List[int]) -> bool:
