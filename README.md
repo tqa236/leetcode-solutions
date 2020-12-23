@@ -41,9 +41,20 @@
 | 1328  |               Break a Palindrome               |      28      |           77.26           |       14.0        |             18.31              |
 | 1463  |                Cherry Pickup II                |     1608     |           33.01           |       26.7        |             52.15              |
 
+# Docker command
+
+```console
+docker build --tag leetcode .
+```
+
+```console
+docker run -it -p 8888:8888 -v "$(pwd):/leetcode" leetcode /bin/bash
+```
+
 # TODO
 
 -   Configure CI
 -   Configure Code Analysis
 -   Configure CodeCov
+-   Use TreeNode in utils for all exercises: 94
 -   TODO: 887
