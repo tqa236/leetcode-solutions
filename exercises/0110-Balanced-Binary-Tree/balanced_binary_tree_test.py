@@ -1,17 +1,27 @@
 import unittest
 
-from binary_tree_inorder_traversal import Solution, TreeNode
+from utils.tree import make_tree
+from balanced_binary_tree import Solution
 
 
 class Test(unittest.TestCase):
     def test_1(self):
         solution = Solution()
-        root = TreeNode(1, None, TreeNode(2, TreeNode(3, None, None), None))
-        self.assertEqual(solution.inorderTraversal(root), [1, 3, 2])
+        values = [3, 9, 20, None, None, 15, 7]
+        root = make_tree(values)
+        self.assertEqual(solution.isBalanced(root), True)
 
     def test_2(self):
         solution = Solution()
-        self.assertEqual(solution.inorderTraversal(None), [])
+        values = [1, 2, 2, 3, 3, None, None, 4, 4]
+        root = make_tree(values)
+        self.assertEqual(solution.isBalanced(root), False)
+
+    def test_3(self):
+        solution = Solution()
+        values = []
+        root = make_tree(values)
+        self.assertEqual(solution.isBalanced(root), True)
 
 
 if __name__ == "__main__":

@@ -10,6 +10,7 @@
 |  57   |                Insert Interval                 |      84      |           71.85           |       17.1        |             75.36              |
 |  58   |              Length of Last Word               |      44      |           17.34           |       13.9        |             45.34              |
 |  94   |         Binary Tree Inorder Traversal          |      32      |           55.77           |       13.7        |             93.01              |
+|  110  |              Balanced Binary Tree              |      48      |           80.34           |       18.0        |             66.91              |
 |  117  | Populating Next Right Pointers in Each Node II |      52      |           36.67           |       15.5        |              N/A               |
 |  121  |        Best Time to Buy and Sell Stock         |      68      |           58.99           |       15.1        |             51.98              |
 |  179  |                 Largest Number                 |      36      |           84.93           |       14.1        |              7.32              |
@@ -43,9 +44,13 @@
 
 # Docker command
 
+Build image:
+
 ```console
 docker build --tag leetcode .
 ```
+
+Run container:
 
 ```console
 docker run -it -p 8888:8888 -v "$(pwd):/leetcode" leetcode /bin/bash
@@ -56,5 +61,4 @@ docker run -it -p 8888:8888 -v "$(pwd):/leetcode" leetcode /bin/bash
 -   Configure CI
 -   Configure Code Analysis
 -   Configure CodeCov
--   Use TreeNode in utils for all exercises: 94
 -   TODO: 887
