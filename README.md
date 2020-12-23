@@ -23,6 +23,7 @@
 |  421  |     Maximum XOR of Two Numbers in an Array     |     421      |           66.31           |       16.3        |             97.66              |
 |  495  |                Teemo Attacking                 |     256      |           95.94           |       15.3        |              7.16              |
 |  557  |         Reverse Words in a String III          |      36      |           64.78           |       14.2        |             76.21              |
+|  564  |          Find the Closest Palindrome           |      32      |           58.28           |       14.5        |              8.61              |
 |  581  |     Shortest Unsorted Continuous Subarray      |     208      |           88.74           |       15.2        |              8.19              |
 |  605  |               Can Place Flowers                |     164      |           57.77           |       14.6        |             66.37              |
 |  693  |      Binary Number with Alternating Bits       |      32      |           55.19           |       13.7        |             78.74              |
