@@ -6,6 +6,7 @@
 |   4   |          Median of Two Sorted Arrays           |      96      |           74.34           |       13.9        |             85.35              |
 |   7   |                Reverse Integer                 |      32      |           70.20           |       13.8        |             75.27              |
 |  15   |                      3Sum                      |     1676     |           24.00           |       153.5       |              N/A               |
+|  24   |              Swap Nodes in Pairs               |      28      |           82.02           |       14.2        |             58.00              |
 |  31   |                Next Permutation                |      40      |           80.88           |       13.9        |             41.92              |
 |  57   |                Insert Interval                 |      84      |           71.85           |       17.1        |             75.36              |
 |  58   |              Length of Last Word               |      44      |           17.34           |       13.9        |             45.34              |
