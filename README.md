@@ -31,6 +31,7 @@
 |  605  |               Can Place Flowers                |     164      |           57.77           |       14.6        |             66.37              |
 |  693  |      Binary Number with Alternating Bits       |      32      |           55.19           |       13.7        |             78.74              |
 |  713  |          Subarray Product Less Than K          |     1616     |           18.97           |       18.4        |              N/A               |
+|  717  |           1-bit and 2-bit Characters           |      48      |           79.94           |       14.4        |             29.07              |
 |  792  |        Number of Matching Subsequences         |     2216     |           16.76           |       15.1        |             58.71              |
 |  811  |             Subdomain Visit Count              |      64      |           29.36           |       14.2        |              5.12              |
 |  886  |              Possible Bipartition              |     648      |          100.00           |       18.8        |             70.16              |
