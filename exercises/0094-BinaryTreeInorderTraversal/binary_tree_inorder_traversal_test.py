@@ -2,13 +2,14 @@ import unittest
 import sys
 
 from binary_tree_inorder_traversal import Solution
-from utils.tree import TreeNode
+from utils.tree import make_tree
 
 
 class Test(unittest.TestCase):
     def test_1(self):
+        values = [1, None, 2, 3]
+        root = make_tree(values)
         solution = Solution()
-        root = TreeNode(1, None, TreeNode(2, TreeNode(3, None, None), None))
         self.assertEqual(solution.inorderTraversal(root), [1, 3, 2])
 
     def test_2(self):

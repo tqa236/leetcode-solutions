@@ -11,6 +11,7 @@
 |  57   |                Insert Interval                 |      84      |           71.85           |       17.1        |             75.36              |
 |  58   |              Length of Last Word               |      44      |           17.34           |       13.9        |             45.34              |
 |  94   |         Binary Tree Inorder Traversal          |      32      |           55.77           |       13.7        |             93.01              |
+|  104  |          Maximum Depth of Binary Tree          |      44      |           41.51           |       16.2        |             31.93              |
 |  110  |              Balanced Binary Tree              |      48      |           80.34           |       18.0        |             66.91              |
 |  117  | Populating Next Right Pointers in Each Node II |      52      |           36.67           |       15.5        |              N/A               |
 |  121  |        Best Time to Buy and Sell Stock         |      68      |           58.99           |       15.1        |             51.98              |
