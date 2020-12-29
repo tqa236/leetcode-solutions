@@ -8,17 +8,18 @@ def make_exercise(id, name, method):
     path = os.getcwd()
     words = []
     for word in name.split():
-        words.append(word[0].upper() + word[1:])
+        new_word = word[0].upper() + word[1:]
+        new_word = new_word.replace("-", "")
+        words.append(new_word)
 
     folder_name = str(id).zfill(4) + "-" + "".join(words)
-    exercise_name = name.lower().replace(" ", "_")
+    exercise_name = "".join([c if c.isalnum() else "_" for c in name.lower()])
     folder_path = f"{path}/exercises/{folder_name}"
     if not os.path.exists(folder_path):
         print(f"Create {folder_path}.")
         os.mkdir(folder_path)
     else:
         print(f"Path {folder_path} already existed.")
-    info = {"exercise_name": exercise_name, "method_name": method}
     with open("utils/skeleton_test.py", "r") as f:
         test_file = f.read().format(exercise_name=exercise_name, method=method)
 
