@@ -45,6 +45,7 @@
 | 1275  |       Find Winner on a Tic Tac Toe Game        |      40      |           28.62           |       13.8        |             72.16              |
 | 1291  |               Sequential Digits                |      40      |           22.56           |       13.8        |             50.26              |
 | 1328  |               Break a Palindrome               |      28      |           77.26           |       14.0        |             18.31              |
+| 1345  |                  Jump Game IV                  |     496      |           81.90           |       30.4        |             37.72              |
 | 1463  |                Cherry Pickup II                |     1608     |           33.01           |       26.7        |             52.15              |
 
 # Docker command
