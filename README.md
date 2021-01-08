@@ -50,6 +50,7 @@
 | 1328  |                  Break a Palindrome                  |      28      |           77.26           |       14.0        |             18.31              |
 | 1345  |                     Jump Game IV                     |     496      |           81.90           |       30.4        |             37.72              |
 | 1463  |                   Cherry Pickup II                   |     1608     |           33.01           |       26.7        |             52.15              |
+| 1662  |      Check If Two String Arrays are Equivalent       |      40      |           19.73           |       14.2        |             86.98              |
 
 # Docker command
 
