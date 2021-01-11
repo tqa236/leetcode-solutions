@@ -10,6 +10,7 @@
 |  31   |                   Next Permutation                   |      40      |           80.88           |       13.9        |             41.92              |
 |  57   |                   Insert Interval                    |      84      |           71.85           |       17.1        |             75.36              |
 |  58   |                 Length of Last Word                  |      44      |           17.34           |       13.9        |             45.34              |
+|  88   |                  Merge Sorted Array                  |      36      |           69.59           |       14.3        |              N/A               |
 |  94   |            Binary Tree Inorder Traversal             |      32      |           55.77           |       13.7        |             93.01              |
 |  104  |             Maximum Depth of Binary Tree             |      44      |           41.51           |       16.2        |             31.93              |
 |  110  |                 Balanced Binary Tree                 |      48      |           80.34           |       18.0        |             66.91              |
