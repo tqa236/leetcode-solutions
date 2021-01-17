@@ -54,6 +54,7 @@
 | 1345  |                     Jump Game IV                     |     496      |           81.90           |       30.4        |             37.72              |
 | 1450  |  Number of Students Doing Homework at a Given Time   |      36      |           72.00           |       14.4        |             19.36              |
 | 1463  |                   Cherry Pickup II                   |     1608     |           33.01           |       26.7        |             52.15              |
+| 1641  |              Count Sorted Vowel Strings              |      40      |           30.41           |       14.3        |             57.36              |
 | 1646  |            Get Maximum in Generated Array            |      24      |           95.87           |       14.4        |              N/A               |
 | 1658  |        Minimum Operations to Reduce X to Zero        |     1216     |           66.20           |       28.8        |             63.39              |
 | 1662  |      Check If Two String Arrays are Equivalent       |      40      |           19.73           |       14.2        |             86.98              |
