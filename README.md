@@ -23,9 +23,11 @@
 |  205  |                  Isomorphic Strings                  |      36      |           88.24           |       14.1        |             47.13              |
 |  215  |           Kth Largest Element in an Array            |      60      |           88.90           |       15.1        |             74.25              |
 |  229  |                 Majority Element II                  |     128      |           32.86           |       13.8        |             45.86              |
+|  231  |                     Power of Two                     |      60      |           6.30            |       14.2        |             38.92              |
 |  264  |                    Ugly Number II                    |     7500     |            N/A            |       12.8        |             58.04              |
 |  326  |                    Power of Three                    |      84      |           45.19           |       14.1        |             77.17              |
 |  334  |            Increasing Triplet Subsequence            |      48      |           92.00           |       14.7        |             43.86              |
+|  342  |                    Power of Four                     |      56      |           5.66            |       14.1        |             89.11              |
 |  389  |                 Find the Difference                  |      20      |           99.43           |       14.1        |              N/A               |
 |  421  |        Maximum XOR of Two Numbers in an Array        |     421      |           66.31           |       16.3        |             97.66              |
 |  495  |                   Teemo Attacking                    |     256      |           95.94           |       15.3        |              7.16              |
