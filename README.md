@@ -8,6 +8,7 @@
 |  15   |                         3Sum                         |     1676     |           24.00           |       153.5       |              N/A               |
 |  24   |                 Swap Nodes in Pairs                  |      28      |           82.02           |       14.2        |             58.00              |
 |  31   |                   Next Permutation                   |      40      |           80.88           |       13.9        |             41.92              |
+|  56   |                   Merge Intervals                    |      88      |           49.72           |       16.3        |              9.35              |
 |  57   |                   Insert Interval                    |      84      |           71.85           |       17.1        |             75.36              |
 |  58   |                 Length of Last Word                  |      44      |           17.34           |       13.9        |             45.34              |
 |  88   |                  Merge Sorted Array                  |      36      |           69.59           |       14.3        |              N/A               |
@@ -23,6 +24,7 @@
 |  215  |           Kth Largest Element in an Array            |      60      |           88.90           |       15.1        |             74.25              |
 |  229  |                 Majority Element II                  |     128      |           32.86           |       13.8        |             45.86              |
 |  264  |                    Ugly Number II                    |     7500     |            N/A            |       12.8        |             58.04              |
+|  326  |                    Power of Three                    |      84      |           45.19           |       14.1        |             77.17              |
 |  334  |            Increasing Triplet Subsequence            |      48      |           92.00           |       14.7        |             43.86              |
 |  389  |                 Find the Difference                  |      20      |           99.43           |       14.1        |              N/A               |
 |  421  |        Maximum XOR of Two Numbers in an Array        |     421      |           66.31           |       16.3        |             97.66              |
