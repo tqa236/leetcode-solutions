@@ -58,6 +58,7 @@
 | 1646  |            Get Maximum in Generated Array            |      24      |           95.87           |       14.4        |              N/A               |
 | 1658  |        Minimum Operations to Reduce X to Zero        |     1216     |           66.20           |       28.8        |             63.39              |
 | 1662  |      Check If Two String Arrays are Equivalent       |      40      |           19.73           |       14.2        |             86.98              |
+| 1679  |              Max Number of K-Sum Pairs               |     848      |           18.68           |       27.5        |             40.53              |
 
 # Docker command
 
