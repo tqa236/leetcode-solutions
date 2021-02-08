@@ -26,6 +26,7 @@
 |  229  |                 Majority Element II                  |     128      |           32.86           |       13.8        |             45.86              |
 |  231  |                     Power of Two                     |      60      |           6.30            |       14.2        |             38.92              |
 |  264  |                    Ugly Number II                    |     7500     |            N/A            |       12.8        |             58.04              |
+|  284  |                   Peeking Iterator                   |      36      |           35.04           |       14.4        |             66.46              |
 |  326  |                    Power of Three                    |      84      |           45.19           |       14.1        |             77.17              |
 |  334  |            Increasing Triplet Subsequence            |      48      |           92.00           |       14.7        |             43.86              |
 |  342  |                    Power of Four                     |      56      |           5.66            |       14.1        |             89.11              |
