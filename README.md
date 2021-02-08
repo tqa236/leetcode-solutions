@@ -39,6 +39,7 @@
 |  564  |             Find the Closest Palindrome              |      32      |           58.28           |       14.5        |              8.61              |
 |  581  |        Shortest Unsorted Continuous Subarray         |     208      |           88.74           |       15.2        |              8.19              |
 |  605  |                  Can Place Flowers                   |     164      |           57.77           |       14.6        |             66.37              |
+|  628  |           Maximum Product of Three Numbers           |     244      |           94.03           |       15.6        |              7.12              |
 |  693  |         Binary Number with Alternating Bits          |      32      |           55.19           |       13.7        |             78.74              |
 |  713  |             Subarray Product Less Than K             |     1616     |           18.97           |       18.4        |              N/A               |
 |  717  |              1-bit and 2-bit Characters              |      48      |           79.94           |       14.4        |             29.07              |
