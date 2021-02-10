@@ -19,6 +19,7 @@
 |  117  |    Populating Next Right Pointers in Each Node II    |      52      |           36.67           |       15.5        |              N/A               |
 |  121  |           Best Time to Buy and Sell Stock            |      68      |           58.99           |       15.1        |             51.98              |
 |  127  |                     Word Ladder                      |     552      |           21.13           |       15.2        |             78.78              |
+|  138  |            Copy List with Random Pointer             |      32      |           87.70           |       15.2        |             20.09              |
 |  179  |                    Largest Number                    |      36      |           84.93           |       14.1        |              7.32              |
 |  198  |                     House Robber                     |      40      |           27.94           |       13.8        |             59.98              |
 |  205  |                  Isomorphic Strings                  |      36      |           88.24           |       14.1        |             47.13              |
