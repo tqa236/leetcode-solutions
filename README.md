@@ -3,6 +3,8 @@
 |  ID   |                         Name                         | Runtime (ms) | Runtime (Better than) (%) | Memory Usage (MB) | Memory Usage (Better than) (%) |
 | :---: | :--------------------------------------------------: | :----------: | :-----------------------: | :---------------: | :----------------------------: |
 |   1   |                       Two Sum                        |     104      |           30.35           |       15.1        |             69.92              |
+|   2   |                   Add Two Numbers                    |      72      |           53.37           |       14.2        |             73.98              |
+|   3   |    Longest Substring Without Repeating Characters    |      36      |           99.96           |       14.2        |             83.04              |
 |   4   |             Median of Two Sorted Arrays              |      96      |           74.34           |       13.9        |             85.35              |
 |   7   |                   Reverse Integer                    |      32      |           70.20           |       13.8        |             75.27              |
 |  15   |                         3Sum                         |     1676     |           24.00           |       153.5       |              N/A               |
