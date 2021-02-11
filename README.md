@@ -28,6 +28,7 @@
 |  215  |           Kth Largest Element in an Array            |      60      |           88.90           |       15.1        |             74.25              |
 |  229  |                 Majority Element II                  |     128      |           32.86           |       13.8        |             45.86              |
 |  231  |                     Power of Two                     |      60      |           6.30            |       14.2        |             38.92              |
+|  242  |                    Valid Anagram                     |      32      |           98.22           |       14.5        |             78.18              |
 |  264  |                    Ugly Number II                    |     7500     |            N/A            |       12.8        |             58.04              |
 |  284  |                   Peeking Iterator                   |      36      |           35.04           |       14.4        |             66.46              |
 |  326  |                    Power of Three                    |      84      |           45.19           |       14.1        |             77.17              |
