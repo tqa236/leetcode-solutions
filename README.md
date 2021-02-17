@@ -58,6 +58,7 @@
 |  933  |                Number of Recent Calls                |     608      |           12.50           |       18.0        |              7.50              |
 |  977  |              Squares of a Sorted Array               |     240      |           66.45           |       15.7        |             64.88              |
 | 1041  |               Robot Bounded In Circle                |      36      |           33.56           |       14.1        |              N/A               |
+| 1091  |            Shortest Path in Binary Matrix            |     1524     |           5.01            |       16.3        |              6.80              |
 | 1094  |                     Car Pooling                      |      72      |           44.68           |       14.5        |             12.59              |
 | 1247  |         Minimum Swaps to Make Strings Equal          |      12      |          100.00           |       13.8        |             52.77              |
 | 1275  |          Find Winner on a Tic Tac Toe Game           |      40      |           28.62           |       13.8        |             72.16              |
