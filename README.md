@@ -9,6 +9,7 @@
 |   7   |                   Reverse Integer                    |      32      |           70.20           |       13.8        |             75.27              |
 |  11   |              Container With Most Water               |     168      |           75.03           |       16.6        |             50.30              |
 |  15   |                         3Sum                         |     1676     |           24.00           |       153.5       |              N/A               |
+|  18   |                         4Sum                         |      64      |           99.28           |       14.4        |             59.84              |
 |  20   |                  Valid Parentheses                   |      28      |           85.27           |       14.3        |             66.87              |
 |  24   |                 Swap Nodes in Pairs                  |      28      |           82.02           |       14.2        |             58.00              |
 |  31   |                   Next Permutation                   |      40      |           80.88           |       13.9        |             41.92              |
