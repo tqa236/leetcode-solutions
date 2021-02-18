@@ -95,4 +95,4 @@ docker run -it -p 8888:8888 -v "$(pwd):/leetcode" leetcode /bin/bash
 -   Configure CI
 -   Configure Code Analysis
 -   Configure CodeCov
--   TODO: 5, 887
+-   TODO: 5, 887, 446
