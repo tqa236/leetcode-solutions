@@ -37,6 +37,7 @@
 |  334  |            Increasing Triplet Subsequence            |      48      |           92.00           |       14.7        |             43.86              |
 |  342  |                    Power of Four                     |      56      |           5.66            |       14.1        |             89.11              |
 |  389  |                 Find the Difference                  |      20      |           99.43           |       14.1        |              N/A               |
+|  413  |                  Arithmetic Slices                   |      40      |           48.59           |       14.5        |             76.96              |
 |  421  |        Maximum XOR of Two Numbers in an Array        |     421      |           66.31           |       16.3        |             97.66              |
 |  495  |                   Teemo Attacking                    |     256      |           95.94           |       15.3        |              7.16              |
 |  498  |                  Diagonal Traverse                   |     188      |           80.36           |       16.8        |             51.85              |
@@ -57,6 +58,7 @@
 |  917  |                 Reverse Only Letters                 |      32      |           57.92           |       13.7        |             82.00              |
 |  933  |                Number of Recent Calls                |     608      |           12.50           |       18.0        |              7.50              |
 |  977  |              Squares of a Sorted Array               |     240      |           66.45           |       15.7        |             64.88              |
+|  986  |             Interval List Intersections              |     152      |           51.51           |       14.9        |             78.81              |
 | 1041  |               Robot Bounded In Circle                |      36      |           33.56           |       14.1        |              N/A               |
 | 1091  |            Shortest Path in Binary Matrix            |     1524     |           5.01            |       16.3        |              6.80              |
 | 1094  |                     Car Pooling                      |      72      |           44.68           |       14.5        |             12.59              |
