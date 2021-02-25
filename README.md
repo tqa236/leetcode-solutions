@@ -44,7 +44,7 @@
 |  526  |                Beautiful Arrangement                 |      56      |           95.48           |       15.1        |             16.88              |
 |  557  |            Reverse Words in a String III             |      36      |           64.78           |       14.2        |             76.21              |
 |  564  |             Find the Closest Palindrome              |      32      |           58.28           |       14.5        |              8.61              |
-|  581  |        Shortest Unsorted Continuous Subarray         |     208      |           88.74           |       15.2        |              8.19              |
+|  581  |        Shortest Unsorted Continuous Subarray         |     212      |           59.02           |       15.6        |              N/A               |
 |  605  |                  Can Place Flowers                   |     164      |           57.77           |       14.6        |             66.37              |
 |  628  |           Maximum Product of Three Numbers           |     244      |           94.03           |       15.6        |              7.12              |
 |  693  |         Binary Number with Alternating Bits          |      32      |           55.19           |       13.7        |             78.74              |
