@@ -49,7 +49,8 @@
 |  628  |           Maximum Product of Three Numbers           |     244      |           94.03           |       15.6        |              7.12              |
 |  693  |         Binary Number with Alternating Bits          |      32      |           55.19           |       13.7        |             78.74              |
 |  713  |             Subarray Product Less Than K             |     1616     |           18.97           |       18.4        |              N/A               |
-|  717  |              1-bit and 2-bit Characters              |      48      |           79.94           |       14.4        |             29.07              |
+|  714  |             Subarray Product Less Than K             |     1616     |           18.97           |       18.4        |              N/A               |
+|  717  | Best Time to Buy and Sell Stock with Transaction Fee |     580      |           99.55           |       21.1        |             99.37              |
 |  775  |             Global and Local Inversions              |     348      |           35.46           |       15.2        |             13.15              |
 |  792  |           Number of Matching Subsequences            |     2216     |           16.76           |       15.1        |             58.71              |
 |  811  |                Subdomain Visit Count                 |      64      |           29.36           |       14.2        |              5.12              |
@@ -95,4 +96,4 @@ docker run -it -p 8888:8888 -v "$(pwd):/leetcode" leetcode /bin/bash
 -   Configure CI
 -   Configure Code Analysis
 -   Configure CodeCov
--   TODO: 5, 887, 446
+-   TODO: 5, 887, 446, 322
