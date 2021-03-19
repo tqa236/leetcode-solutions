@@ -36,6 +36,7 @@
 |  326  |                    Power of Three                    |      84      |           45.19           |       14.1        |             77.17              |
 |  334  |            Increasing Triplet Subsequence            |      48      |           92.00           |       14.7        |             43.86              |
 |  342  |                    Power of Four                     |      56      |           5.66            |       14.1        |             89.11              |
+|  376  |                  Wiggle Subsequence                  |      36      |           62.24           |       14.1        |             89.37              |
 |  389  |                 Find the Difference                  |      20      |           99.43           |       14.1        |              N/A               |
 |  413  |                  Arithmetic Slices                   |      40      |           48.59           |       14.5        |             76.96              |
 |  421  |        Maximum XOR of Two Numbers in an Array        |     421      |           66.31           |       16.3        |             97.66              |
