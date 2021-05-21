@@ -56,6 +56,7 @@
 |  792  |           Number of Matching Subsequences            |     2216     |           16.76           |       15.1        |             58.71              |
 |  811  |                Subdomain Visit Count                 |      64      |           29.36           |       14.2        |              5.12              |
 |  886  |                 Possible Bipartition                 |     648      |          100.00           |       18.8        |             70.16              |
+|  890  |               Find and Replace Pattern               |      36      |           35.82           |       14.3        |             30.80              |
 |  898  |               Bitwise ORs of Subarrays               |     1396     |           10.12           |       40.2        |             57.52              |
 |  917  |                 Reverse Only Letters                 |      32      |           57.92           |       13.7        |             82.00              |
 |  933  |                Number of Recent Calls                |     608      |           12.50           |       18.0        |              7.50              |
@@ -97,4 +98,4 @@ docker run -it -p 8888:8888 -v "$(pwd):/leetcode" leetcode /bin/bash
 -   Configure CI
 -   Configure Code Analysis
 -   Configure CodeCov
--   TODO: 5, 887, 446, 322
+-   TODO: 5, 887, 446, 322, 152
