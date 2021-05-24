@@ -1,3 +1,3 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        reversed_s = s[::-1]
+        max_length = len(s)
