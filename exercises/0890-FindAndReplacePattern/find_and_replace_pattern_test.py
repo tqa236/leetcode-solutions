@@ -1,6 +1,4 @@
 import unittest
-import hypothesis.strategies as st
-from hypothesis import given
 from find_and_replace_pattern import Solution
 
 

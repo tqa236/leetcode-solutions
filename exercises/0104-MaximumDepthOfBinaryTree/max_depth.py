@@ -1,4 +1,3 @@
-from typing import List
 
 
 from utils.tree import TreeNode

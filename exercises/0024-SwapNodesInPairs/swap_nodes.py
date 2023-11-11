@@ -1,4 +1,4 @@
-from utils.linked_list import ListNode, linked_list_to_list
+from utils.linked_list import ListNode
 
 
 class Solution:

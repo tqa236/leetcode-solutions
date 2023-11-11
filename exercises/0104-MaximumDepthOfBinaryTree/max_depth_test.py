@@ -1,8 +1,7 @@
 import unittest
-import sys
 
 from max_depth import Solution
-from utils.tree import TreeNode, make_tree
+from utils.tree import make_tree
 
 
 class Test(unittest.TestCase):

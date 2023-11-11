@@ -1,5 +1,4 @@
 from typing import List
-from collections import Counter
 
 
 def permutate_word(word, pattern):

@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List
 import sys
 
 sys.setrecursionlimit(10 ** 9)

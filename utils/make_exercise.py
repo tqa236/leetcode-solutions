@@ -1,7 +1,5 @@
 import argparse
-import string
 import os
-from string import Template
 
 
 def make_exercise(id, name, method):

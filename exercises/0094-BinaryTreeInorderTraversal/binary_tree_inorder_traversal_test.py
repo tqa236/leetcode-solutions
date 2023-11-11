@@ -1,5 +1,4 @@
 import unittest
-import sys
 
 from binary_tree_inorder_traversal import Solution
 from utils.tree import make_tree
