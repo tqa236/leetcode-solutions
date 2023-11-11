@@ -7,6 +7,7 @@
 |   3   |    Longest Substring Without Repeating Characters    |      36      |           99.96           |       14.2        |             83.04              |
 |   4   |             Median of Two Sorted Arrays              |      96      |           74.34           |       13.9        |             85.35              |
 |   7   |                   Reverse Integer                    |      32      |           70.20           |       13.8        |             75.27              |
+|   9   |                  Palindrome Number                   |      55      |           78.41           |       16.1        |              95.5              |
 |  11   |              Container With Most Water               |     168      |           75.03           |       16.6        |             50.30              |
 |  15   |                         3Sum                         |     1676     |           24.00           |       153.5       |              N/A               |
 |  18   |                         4Sum                         |      64      |           99.28           |       14.4        |             59.84              |
@@ -22,6 +23,7 @@
 |  110  |                 Balanced Binary Tree                 |      48      |           80.34           |       18.0        |             66.91              |
 |  117  |    Populating Next Right Pointers in Each Node II    |      52      |           36.67           |       15.5        |              N/A               |
 |  121  |           Best Time to Buy and Sell Stock            |      68      |           58.99           |       15.1        |             51.98              |
+|  125  |                   Valid Palindrome                   |      54      |           38.77           |       22.58       |              5.85              |
 |  127  |                     Word Ladder                      |     552      |           21.13           |       15.2        |             78.78              |
 |  138  |            Copy List with Random Pointer             |      32      |           87.70           |       15.2        |             20.09              |
 |  179  |                    Largest Number                    |      36      |           84.93           |       14.1        |              7.32              |
@@ -97,7 +99,7 @@ docker run -it -p 8888:8888 -v "$(pwd):/leetcode" leetcode /bin/bash
 
 # TODO
 
--   Configure CI
--   Configure Code Analysis
--   Configure CodeCov
--   TODO: 5, 887, 446, 322, 152
+- Configure CI
+- Configure Code Analysis
+- Configure CodeCov
+- TODO: 5, 887, 446, 322, 152
