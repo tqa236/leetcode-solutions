@@ -3,7 +3,7 @@ from typing import List
 
 class Solution:
     def minJumps(self, arr: List[int]) -> int:
-        min_jump = [10 ** 9] * len(arr)
+        min_jump = [10**9] * len(arr)
         min_jump[0] = 0
         queue = [0]
         value_index_dict = {}
@@ -17,7 +17,7 @@ class Solution:
             node = queue.pop(0)
             distance = min_jump_node
             min_jump_node = min_jump[node]
-            if distance + 1 <= min_jump[-1] < 10 ** 9:
+            if distance + 1 <= min_jump[-1] < 10**9:
                 return min_jump[-1]
             if node > 0 and min_jump[node - 1] > min_jump_node + 1:
                 min_jump[node - 1] = min_jump_node + 1

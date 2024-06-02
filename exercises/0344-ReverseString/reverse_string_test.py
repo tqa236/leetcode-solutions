@@ -5,7 +5,7 @@ from reverse_string import Solution
 class Test(unittest.TestCase):
     def test_1(self):
         solution = Solution()
-        s = ["a","b","c"]
+        s = ["a", "b", "c"]
         solution.reverseString(s)
         self.assertEqual(s, ["c", "b", "a"])
 

@@ -1,7 +1,7 @@
 from typing import List
 import sys
 
-sys.setrecursionlimit(10 ** 9)
+sys.setrecursionlimit(10**9)
 CACHE = {}
 
 

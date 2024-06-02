@@ -7,7 +7,7 @@ class Solution(object):
             if k == 0:
                 drops.append(N)
             if k > 0:
-                drops.append((N + 1) // 2 ** k + k)
+                drops.append((N + 1) // 2**k + k)
             print(k, drops)
         # drops = [(N + 1) // 2 ** (k - 1) + k - 1 if k > 0 else N for k in range(K)]
         print(drops)

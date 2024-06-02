@@ -17,7 +17,7 @@ class Solution(object):
                 else:
                     break
             upperbound = int(math.floor(math.log(max_ugly_number, 2)))
-            upperbound_index = self.ugly_numbers.index(2 ** upperbound) + 2
+            upperbound_index = self.ugly_numbers.index(2**upperbound) + 2
             candidates = [
                 ugly_number * factor
                 for ugly_number in self.ugly_numbers[self.start : upperbound_index]

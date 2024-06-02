@@ -37,14 +37,14 @@ class Test(unittest.TestCase):
 
     def test_7(self):
         solution = Solution()
-        self.assertEqual(solution.minJumps([7] * (5 * 10 ** 4) + [11]), 2)
+        self.assertEqual(solution.minJumps([7] * (5 * 10**4) + [11]), 2)
 
     def test_8(self):
         solution = Solution()
         self.assertEqual(
             solution.minJumps(
                 [7, 6, 8, 6, 8, 6, 8, 6, 8, 6, 8, 6, 8, 8, 8, 6, 6, 5, 6]
-                + [7] * (5 * 10 ** 4)
+                + [7] * (5 * 10**4)
                 + [8, 6, 8, 6, 7]
                 + [11]
             ),

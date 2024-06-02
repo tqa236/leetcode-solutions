@@ -19,7 +19,7 @@ class Test(unittest.TestCase):
 
     def test_4(self):
         solution = Solution()
-        self.assertEqual(solution.reachingPoints(1, 1, 10 ** 9, 1), True)
+        self.assertEqual(solution.reachingPoints(1, 1, 10**9, 1), True)
 
     def test_5(self):
         solution = Solution()
