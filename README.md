@@ -67,6 +67,7 @@
 |  933  |                Number of Recent Calls                |     608      |           12.50           |       18.0        |              7.50              |
 |  977  |              Squares of a Sorted Array               |     240      |           66.45           |       15.7        |             64.88              |
 |  986  |             Interval List Intersections              |     152      |           51.51           |       14.9        |             78.81              |
+| 1002  |               Find Common Characters                 |      44      |           82.93           |       16.62       |             67.21              |
 | 1041  |               Robot Bounded In Circle                |      36      |           33.56           |       14.1        |              N/A               |
 | 1091  |            Shortest Path in Binary Matrix            |     1524     |           5.01            |       16.3        |              6.80              |
 | 1094  |                     Car Pooling                      |      72      |           44.68           |       14.5        |             12.59              |
