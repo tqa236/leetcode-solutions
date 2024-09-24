@@ -1,2 +1,2 @@
-pytest
-hypothesis
+pytest>=8.1.1
+hypothesis>=6.88.0
