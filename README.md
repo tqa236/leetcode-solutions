@@ -63,6 +63,7 @@
 |  886  |                 Possible Bipartition                 |     648      |          100.00           |       18.8        |             70.16              |
 |  890  |               Find and Replace Pattern               |      36      |           35.82           |       14.3        |             30.80              |
 |  898  |               Bitwise ORs of Subarrays               |     1396     |           10.12           |       40.2        |             57.52              |
+|  917  |                 Sort Array By Parity                 |      70      |           39.09           |       17.44       |             19.03              |
 |  917  |                 Reverse Only Letters                 |      32      |           57.92           |       13.7        |             82.00              |
 |  933  |                Number of Recent Calls                |     608      |           12.50           |       18.0        |              7.50              |
 |  977  |              Squares of a Sorted Array               |     240      |           66.45           |       15.7        |             64.88              |
